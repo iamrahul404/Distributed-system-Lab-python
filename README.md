@@ -1,2 +1,2 @@
 # Distributed-system-Lab-python
-Lab program for distributed systems for UPTU
+Lab program for distributed systems for AKTU
